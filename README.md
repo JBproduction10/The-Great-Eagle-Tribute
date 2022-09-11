@@ -1,8 +1,8 @@
 # The Great Eagle Tribute
 
-Official link to the project hosted on Netlify[link](https://thegreateagle.netlify.app/)
+Official link to the project hosted on Netlify [link](https://thegreateagle.netlify.app/)
 
-<img src="/images/thegreatealgeredo.png" width="100%" height="100%" align="center" />
+![image]("./images/thegreateagleredo.png")
 
 ## The project about
 
