@@ -2,6 +2,7 @@
 
 Official link to the project hosted on Netlify [link](https://thegreateagle.netlify.app/)
 
+<img src="./images/thegreateagleredo.png"/>
 ![image info]("./images/thegreateagleredo.png")
 
 ## The project about
